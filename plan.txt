@@ -1,0 +1,6 @@
+use stilts.jar to download batches of starmapper data in batches of 500,000
+when it starts it should verify if it has already downloaded a batch in that range
+it should also have the ability to timeout and redownload if its taking too long
+
+
+1. get stilts jar to download a batch
